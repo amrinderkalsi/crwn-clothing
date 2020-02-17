@@ -4,6 +4,7 @@ import CollectionPreview from '../../component/collection-preview/collection-pre
 
 class ShopPage extends Component {
 
+    // This is constructer
     constructor(props) {
         super(props);
 
